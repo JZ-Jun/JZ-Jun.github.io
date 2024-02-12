@@ -18,8 +18,9 @@ category: Course Projects
 **Solution**: An ios and Android mobiel app that connects non-profits, individuals, and corporations with each other to donate resources.
 
 **Overview and Purpose**:
-Project ChoDi is a mobile and desktop application designed to help connect __non-profit organizations__ (NGOs) to __individuals__ and __businesses__ interested in contributing __time__ or __material__ to their causes. NGOs using the app should find it an effective tool for connecting them not only with __potential financial contributors__, but also with __volunteers__ who can contribute their expertise and manpower to running local events or fundraisers. Individuals and businesses using the app should find it an effective way to investigate vetted and secure NGOs that sponsor causes they believe in, then securely contribute resources and manpower to their efforts.  
+Project ChoDi is a mobile and desktop application designed to help connect **non-profit organizations** (NGOs) to **individuals** and **businesses** interested in contributing **time** or **material** to their causes. NGOs using the app should find it an effective tool for connecting them not only with **potential financial contributors**, but also with **volunteers** who can contribute their expertise and manpower to running local events or fundraisers. Individuals and businesses using the app should find it an effective way to investigate vetted and secure NGOs that sponsor causes they believe in, then securely contribute resources and manpower to their efforts.  
 Our mission is to connect individuals who seek to make a positive impact with charities and non-profit organizations in need of volunteers, all for the purpose of effecting positive change in our communities.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/chodi-2.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -30,7 +31,9 @@ Our mission is to connect individuals who seek to make a positive impact with ch
 </div>
 
 #### How Does ChoDi Help?
+
 ChoDi provides a one-stop shop for users to find organizations that share their values and see how much they’re contributed to them.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/chodi-3.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -46,11 +49,12 @@ ChoDi provides a one-stop shop for users to find organizations that share their 
 - A database of events hosted by local NGOs that users can sign up for and get credit for attending.
 
 #### Lessons Learned
+
 - Flutter Fundamentals!
-  * Thanks to an impromptu two-week crash course filled with every shred of documentation, useful YouTube tutorial, and Udemy course we could get our hands on, the team successfully picked up Flutter well enough to proceed with the project.  
+  - Thanks to an impromptu two-week crash course filled with every shred of documentation, useful YouTube tutorial, and Udemy course we could get our hands on, the team successfully picked up Flutter well enough to proceed with the project.
 - ABCs of Mobile Development
-  * At the same time, other members of our team researched the best practices for designing mobile applications, so that our app would be built on top of the most robust foundation possible.
+  - At the same time, other members of our team researched the best practices for designing mobile applications, so that our app would be built on top of the most robust foundation possible.
 - Firebase-fu
-  * We learned the ins and outs of storing, retrieving, and manipulating data on the Firebase via trial by fire, and became all the better of a team for it!
+  - We learned the ins and outs of storing, retrieving, and manipulating data on the Firebase via trial by fire, and became all the better of a team for it!
 
 We are ChoDi. We create hope and opportunity by direct impact.:rainbow:

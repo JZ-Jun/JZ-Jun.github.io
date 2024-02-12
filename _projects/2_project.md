@@ -7,16 +7,15 @@ importance: 2
 category: Course Projects
 ---
 
-**Description**: User Interaction Software individual project. A mobile app by developing a tool for tracking sleep and sleepiness in Ionic.   
+**Description**: User Interaction Software individual project. A mobile app by developing a tool for tracking sleep and sleepiness in Ionic.  
 **Duration**: March 2022 (1 week)  
 **Tool**: IntelliJ IDEA. Built with Ionic, Bootstrap and Angular.  
 **Link**: [A demo runs on Android device](https://www.youtube.com/watch?v=k2e3UpI_WqI).
 
-My app is designed with the specific purpose of enabling users to quickly record their sleep data and conveniently visualize it. My goal was to simplify the data-logging process by minimizing the number of required inputs and reducing any obstacles to data entry.  
+My app is designed with the specific purpose of enabling users to quickly record their sleep data and conveniently visualize it. My goal was to simplify the data-logging process by minimizing the number of required inputs and reducing any obstacles to data entry.
 
 <br>
 My code is compatible with both iOS and Android systems, it is predominantly designed in line with the Android design style. Therefore, in the [demo](https://www.youtube.com/watch?v=k2e3UpI_WqI), I only present the Android interface to showcase the design and user experience accurately.
-
 
   <div class="row">
       <div class="col-sm mt-3 mt-md-0">
@@ -27,12 +26,12 @@ My code is compatible with both iOS and Android systems, it is predominantly des
       Sleep Tracker UI interface.
   </div>
 
+#### **Features**
 
-#### __Features__
-- The ability to log overnight sleep.  
-- The ability to log sleepiness during the day.  
-- The ability to view these two categories of logged data.  
-- Storing data locally or in a database.  
+- The ability to log overnight sleep.
+- The ability to log sleepiness during the day.
+- The ability to view these two categories of logged data.
+- Storing data locally or in a database.
 
 <br>
 #### __Design principles__
@@ -62,4 +61,4 @@ In order to create this app, I have incorporated the principles of strong mobile
       View Logged Data. Track sleepiness level.
   </div>
 
-*Note: As per the class policy, I am not permitted to upload my code on GitHub. :zzz:	Sleep well :)
+\*Note: As per the class policy, I am not permitted to upload my code on GitHub. :zzz: Sleep well :)

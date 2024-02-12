@@ -7,19 +7,20 @@ importance: 3
 category: Course Projects
 ---
 
-**Role**:User Research, Prototyping, Visual Design, User Testing    
+**Role**:User Research, Prototyping, Visual Design, User Testing  
 **Duration**: Oct - Nov 2022 (10 weeks)  
 **Methods**: Surveys, Interview, Wireframes, Prototypes  
-**Tools**: Paper, Figma, Google Forms, Adobe Premiere Pro  
+**Tools**: Paper, Figma, Google Forms, Adobe Premiere Pro
 
-**Overview and Purpose**: This is a course project(User Interface Evaluation & Design). My team and I utilized the human-centered design process to create a prototype aimed at assisting individuals with selecting outfits. To accomplish this, we surveyed potential users to understand their requirements better and designed [high-fidelity interactive prototypes](https://www.figma.com/proto/ivWcTKpdaZ6sRKKAN1xQqA/Mid-Fidelity-Prototype?page-id=357%3A3531&node-id=376%3A3547&viewport=855%2C400%2C0.5&scaling=scale-down&starting-point-node-id=376%3A3601).(*Link to figma*)
+**Overview and Purpose**: This is a course project(User Interface Evaluation & Design). My team and I utilized the human-centered design process to create a prototype aimed at assisting individuals with selecting outfits. To accomplish this, we surveyed potential users to understand their requirements better and designed [high-fidelity interactive prototypes](https://www.figma.com/proto/ivWcTKpdaZ6sRKKAN1xQqA/Mid-Fidelity-Prototype?page-id=357%3A3531&node-id=376%3A3547&viewport=855%2C400%2C0.5&scaling=scale-down&starting-point-node-id=376%3A3601).(_Link to figma_)
 
-**Pain Point**: People in their 20s, both students and professionals, have varying degrees of trouble creating outfits for special occasions.Outfit selection is __time-consuming__, __difficult__, and __frustrating__. Special occasion clothing is among the __most difficult__ to select.
+**Pain Point**: People in their 20s, both students and professionals, have varying degrees of trouble creating outfits for special occasions.Outfit selection is **time-consuming**, **difficult**, and **frustrating**. Special occasion clothing is among the **most difficult** to select.
 
 **Solution**: A mobile application assisting individuals with selecting outfits for specific occasions.
 [Link to the video demo](https://vimeo.com/779518652)
 
 ### Design Process
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/design-1.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -57,10 +58,11 @@ We conducted interviews over Zoom with target users who took our survey. We sele
     </div>
 </div>
 
-**Formative Takeaways**  
-* Special occasion clothing was difficult for our target audience to style
-* Following a dress code is frustrating
-* Users have trouble creating an outfit centered around one item of clothing they really want to wear
+**Formative Takeaways**
+
+- Special occasion clothing was difficult for our target audience to style
+- Following a dress code is frustrating
+- Users have trouble creating an outfit centered around one item of clothing they really want to wear
 
 <br>
 ### Design & Prototype  
@@ -78,15 +80,16 @@ After showing our prototype to people in the class and target audiences, we disc
 
 Cataloging all of a user’s clothes using manual entry is time consuming. This was mentioned as a concern by multiple participants.  
 The clothing UI was vague and did not give obvious indicators of functionality, which led to confusion.  
-Style is personal and unique.  
-* How does the application know what “good” outfits are for the users?  
-* Different users could tag their clothes in different ways.
-Considerations: Some considerations, such as how good an outfit is for a user or what constitutes a special occasion, we considered to be a question for future and more in depth user research.
+Style is personal and unique.
+
+- How does the application know what “good” outfits are for the users?
+- Different users could tag their clothes in different ways.
+  Considerations: Some considerations, such as how good an outfit is for a user or what constitutes a special occasion, we considered to be a question for future and more in depth user research.
 
 **Iteration - Re-designs**  
 How to determine a good outfit  
 → **Rating System**: Rating up/down for the recommended outfits so that the system can learn user preferences would lead to more personalized recommendations.  
-__x__ Social Component where users could share images of their outfits. This could influence people to purchase more clothes, so we decided against developing this.  
+**x** Social Component where users could share images of their outfits. This could influence people to purchase more clothes, so we decided against developing this.
 
 How to determine a good outfit  
 → **Search function**: users can search for specific clothes using terms from the clothing details, rather than use the filter tabs.  
@@ -103,35 +106,41 @@ We created our final iteration of the [Mid-Fidelity prototype](https://www.figma
 
 **Mid-Fidelity Evaluation**  
 Interviews with P1 and P2.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/mid-fidelity-evaluation.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
-**Takeaways**  
-* Time consuming to add all the clothes  
-* Tedious to add clothes and tags for the clothes  
-* More flexible choices for recommended outfits
+**Takeaways**
+
+- Time consuming to add all the clothes
+- Tedious to add clothes and tags for the clothes
+- More flexible choices for recommended outfits
 
 **Iterative Re-Designs**
 
-→ New feature: Quick Outfit Recommendation.  
-   * A user can upload a few clothes at one time to get a quick recommendation for outfit combinations.
+→ New feature: Quick Outfit Recommendation.
 
-→ Auto-Tagging  
-   * Automatically generating tags for the clothes  
+- A user can upload a few clothes at one time to get a quick recommendation for outfit combinations.
 
-→ "See More"  
-   * Adding a See More option to enable users to explore more recommendations.  
-   * Showing more than 2 options might overwhelm some users.  
+→ Auto-Tagging
 
-→ Changed our initial outfit filtering to include a search bar with frequent search terms listed as suggestions.  
+- Automatically generating tags for the clothes
+
+→ "See More"
+
+- Adding a See More option to enable users to explore more recommendations.
+- Showing more than 2 options might overwhelm some users.
+
+→ Changed our initial outfit filtering to include a search bar with frequent search terms listed as suggestions.
 
 **High-Fidelity Prototype**
-We received valuable feedback from our classmates and target users. We made some modifications based on this feedback to improve the user experience.  
+We received valuable feedback from our classmates and target users. We made some modifications based on this feedback to improve the user experience.
 
 **My Closet**
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/high-1.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -139,14 +148,15 @@ We received valuable feedback from our classmates and target users. We made some
 </div>
 
 **Adding Clothes to the Virtual Closet**
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/high-2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
-
 **Outfit Recommendations for Occasions**
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/high-3.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -154,6 +164,7 @@ We received valuable feedback from our classmates and target users. We made some
 </div>
 
 **Quick Recommender**
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/high-4.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -161,6 +172,7 @@ We received valuable feedback from our classmates and target users. We made some
 </div>
 
 **Saved Outfits**
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/high-5.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -168,6 +180,7 @@ We received valuable feedback from our classmates and target users. We made some
 </div>
 
 **Sign up and Login**
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/high-6.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -175,6 +188,7 @@ We received valuable feedback from our classmates and target users. We made some
 </div>
 
 **Testing**
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/testing.png" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -184,11 +198,11 @@ We received valuable feedback from our classmates and target users. We made some
 <br>
 ### Overall Takeaways
 
-- Multiple perspectives are important for developing a product that works for the most people within the target audience. Many iterations of interviews and evaluations led us to an improved product.  
-- __Visual features__ such as color and iconography are important to convey meaning and functionality.  
-- Some questions continued to arise throughout the design process: why should I trust these outfit recommendations? Where are these outfits coming from, my clothes or from somewhere else? How am I able to search for outfits?  
-  * The fact that these questions keep coming up tells us that we most likely need to __further research__ the target user’s pain points.  
-- We need to make clear to users how their clothes would be used in the recommendation system. Through further research, we could learn to present to the user what streams of data the recommendation system uses to recommend outfits.  
+- Multiple perspectives are important for developing a product that works for the most people within the target audience. Many iterations of interviews and evaluations led us to an improved product.
+- **Visual features** such as color and iconography are important to convey meaning and functionality.
+- Some questions continued to arise throughout the design process: why should I trust these outfit recommendations? Where are these outfits coming from, my clothes or from somewhere else? How am I able to search for outfits?
+  - The fact that these questions keep coming up tells us that we most likely need to **further research** the target user’s pain points.
+- We need to make clear to users how their clothes would be used in the recommendation system. Through further research, we could learn to present to the user what streams of data the recommendation system uses to recommend outfits.
 
 <br>
 ### Future Recommendations
