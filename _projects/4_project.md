@@ -3,14 +3,17 @@ layout: page
 title: Health Informatics Intersection
 description: A Machine Learning-based Analysis of U.S. Tweets
 img: assets/img/amia-1.png
-importance: 1
+importance: 2
 category: Research
 ---
 
 #### Where Informatics Borders Health Services Research
 
 **Topic**: Public Opinions toward COVID-19 Vaccine Mandates: A Machine Learning-based Analysis of U.S. Tweets.
-<br>  
+<br>**Methods**: Sentiment analysis, qualitative content analysis.
+<br>**Duration**: Dec 2021 - Mar 2022.
+
+
 **Description**: This study utilized machine learning-based analysis of tweets from the US leading up to and following the Biden Administration's announcement of federal vaccine mandates. Additionally, a qualitative content analysis of a random sample of relevant tweets was conducted to explore the beliefs held by Twitter users regarding vaccine mandates and the evidence used to support their positions. Results revealed that while 30% of users supported vaccine mandates, a majority held differing opinions. Concerns included political motives, personal liberty infringement, and vaccine ineffectiveness in preventing infection.
 
 **Empirical Contribution**:
