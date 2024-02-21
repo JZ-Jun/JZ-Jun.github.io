@@ -6,6 +6,7 @@ img: assets/img/chodi-1.png
 importance: 1
 category: Course Projects
 ---
+
 **Introduction**: This is a senior milestone project in which I led a team of 5 to collaborate with external sponsors, delivering a `successful real-world mobile application`. Throughout the project, I served as the lead designer and developer, guiding other team members in building the application. Additionally, I used Agile to create Gantt charts and sprints to keep the project on track, ensuring timely delivery. I assisted with software system documentation and maintained timely communication with our sponsors. I organized weekly meetings to facilitate efficient collaboration. Upon receiving the project, my team and I made modifications to the design based on the previous team's low-fidelity prototype. Ultimately, we utilized the Dart language to develop and successfully run the application on the Android and iOS simulator.
 
 **Role**: Team leader, User Research, UML Diagrams, User Interface Design, User Testing, Developer
