@@ -15,7 +15,7 @@ profile:
     <br><p>M.S student</p>
     <p>Informatics @ UC Irvine</p>
     <p>She/Her</p>
-    <p>junz22 at uci dot edu</p>
+    <p>junz22 [at] uci [dot] edu</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -29,4 +29,4 @@ My research focuses on the areas of **Human-Computer Interaction (HCI)**, **Heal
 My ultimate aim in life is to utilize technology to make the world a better place for everyone. I firmly believe that technology alone cannot bring about change; it is people who have the ability to do so. While technological advancements can be made, true transformation requires people to take action and shape the story.
 
 I may be stubborn, but consistency is all I ask. Outside school, you'll find me:  
-Snowboarding. Playing video/computer games (The Legend of Zelda/League of Legends). Obsessing with the Lego world. Spending time with my cat, Kitson.
+Snowboarding. Playing board games and video games. Immersing myself in the Lego world. Spending time with my cat, Kitson.
