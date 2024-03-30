@@ -1,7 +1,7 @@
 # Jun's academic website
 
+## License:
 
-## License: 
 A simple, clean, and responsive [Jekyll](https://jekyllrb.com/) theme for academics.
 
 > With modifications by myself
