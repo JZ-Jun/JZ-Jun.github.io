@@ -15,7 +15,7 @@ profile:
     <br><p>M.S student</p>
     <p>Informatics @ UC Irvine</p>
     <p>She/Her</p>
-    <p>junz22 [at] uci [dot] edu</p>
+    <p>junz22 at uci dot edu</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
