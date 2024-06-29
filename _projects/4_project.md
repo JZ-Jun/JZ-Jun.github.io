@@ -1,14 +1,17 @@
 ---
 layout: page
-title: Health Informatics Intersection
-description: A Machine Learning-based Analysis of U.S. Tweets
+title: Health Public Opinions
+description: Completed Project&#58; A Machine Learning-based Analysis of U.S. Tweets
 img: assets/img/amia-1.png
-importance: 2
+importance: 5
 category: Research
 ---
 
 #### Where Informatics Borders Health Services Research
 
+**AMIA 2022** | [Paper](https://pubmed.ncbi.nlm.nih.gov/37128441/)  
+🏆 _<span style="color:#C0392B; font-size:small">Second Place in Student Paper Competition Finalist</span>_  
+**Role**: Undergraduate Research assistant  
 **Topic**: Public Opinions toward COVID-19 Vaccine Mandates: A Machine Learning-based Analysis of U.S. Tweets.
 <br>**Methods**: Sentiment analysis, qualitative content analysis.
 <br>**Duration**: Dec 2021 - Mar 2022.

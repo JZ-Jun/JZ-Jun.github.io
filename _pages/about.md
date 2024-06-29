@@ -22,7 +22,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a second-year M.S. student in the [Informatics Department](https://www.informatics.uci.edu/) at the University of California Irvine, advised by [Dr.Elena Agapie](https://eagapie.com/). Previously, I also completed my B.S Informatics at [UC Irvine](https://uci.edu/).
+I am a second-year M.S. student in the [Informatics Department](https://www.informatics.uci.edu/) at the University of California Irvine, advised by [Dr.Elena Agapie](https://eagapie.com/). I am also fortunate to be mentored by [Dr.Corina Sas](https://www.lancaster.ac.uk/scc/about-us/people/corina-sas), [Dr. Daniel Epstein](https://depstein.net/) and [Dr. Megh Marathe](https://marathem.weebly.com/). Previously, I also completed my B.S Informatics at [UC Irvine](https://uci.edu/).
 
 My research focuses on the areas of **Human-Computer Interaction (HCI)**, **Health Informatics**, and **Computer-Supported Collaborative Work (CSCW)**. Specifically, I am passionate about adopting **human-centered design (HCD)** principles to create and develop innovative health/wellness technologies to facilitate `healthy behaviors` from a `social-technical perspective`, especially for `underserved populations`. I am interested in exploring how these technologies could be designed and implemented effectively in `real-world` applications.
 

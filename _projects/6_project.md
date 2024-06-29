@@ -1,14 +1,16 @@
 ---
 layout: page
 title: Smartphone Stories
-description: Experiences of Blind and Low Vision Older Adults in Acquiring a Smartphone
+description: Completed Project&#58; Experiences of BLV Older Adults in Acquiring a Smartphone
 img: assets/img/senior_1.png
-importance: 5
+importance: 6
 category: Research
 ---
 
-**Role**: Research assistant  
+**DIS 2023** | [Poster](https://dl.acm.org/doi/10.1145/3563703.3596639)  
+**Role**: Graduate Research assistant  
 **Duration**: Jan 2023 - Mar 2023  
+**Method**: Survey, Semi-structured interview  
 **Description**: This study examined the experience of older adults with visual impairments in acquiring and adapting to smartphones. This interview-based study provides insights into their challenges, available resources, and social support networks. The study suggests ways to improve the adoption process of smartphones for this population.
 
 **Research Question**: As older adults who are blind and low vision(BLV) adopt a new smartphone, what considerations do they make, and what resources do they utilize?
