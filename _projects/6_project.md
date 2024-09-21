@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Smartphone Stories
-description: Completed Project&#58; Experiences of BLV Older Adults in Acquiring a Smartphone
+description: Experiences of BLV Older Adults in Acquiring a Smartphone
 img: assets/img/senior_1.png
 importance: 6
-category: Research
+category: Completed Research
 ---
 
 **DIS 2023** | [Poster](https://dl.acm.org/doi/10.1145/3563703.3596639)  

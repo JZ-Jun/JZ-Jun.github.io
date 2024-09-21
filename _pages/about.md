@@ -24,9 +24,9 @@ social: true # includes social icons at the bottom of the page
 
 I am a second-year M.S. student in the [Informatics Department](https://www.informatics.uci.edu/) at the University of California Irvine, advised by [Dr.Elena Agapie](https://eagapie.com/). I am also fortunate to be mentored by [Dr.Corina Sas](https://www.lancaster.ac.uk/scc/about-us/people/corina-sas), [Dr. Daniel Epstein](https://depstein.net/) and [Dr. Megh Marathe](https://marathem.weebly.com/). Previously, I also completed my B.S Informatics at [UC Irvine](https://uci.edu/).
 
-My research focuses on the areas of **Human-Computer Interaction (HCI)**, **Health Informatics**, and **Computer-Supported Collaborative Work (CSCW)**. Specifically, I am passionate about adopting **human-centered design (HCD)** principles to create and develop innovative health/wellness technologies to facilitate `healthy behaviors` from a `social-technical perspective`, especially for `underserved populations`. I am interested in exploring how these technologies could be designed and implemented effectively in `real-world` applications.
+My research focuses on the areas of **Human-Computer Interaction (HCI)**, **Health Informatics**, and **Computer-Supported Collaborative Work (CSCW)**. Specifically, I am interested in adopting **human-centered design** and leveraging technological innovations to address `socio-technical problems`, particularly for `marginalized populations`. I am passionate about researching how health technologies can be improved to enhance clinical and public health care and support healthy behaviors.
 
-My ultimate aim in life is to utilize technology to make the world a better place for everyone. I firmly believe that technology alone cannot bring about change; it is people who have the ability to do so. While technological advancements can be made, true transformation requires people to take action and shape the story.
+Why research? My ultimate goal is to use my research and technical skills to inspire others to pursue long-term health interventions that are both impactful and far-reaching, while also making technology more accessible to all.
 
-I may be stubborn, but consistency is all I ask. Outside school, you'll find me:  
-Snowboarding. Playing board games and video games. Immersing myself in the Lego world. Spending time with my cat, Kitson.
+I am persistent. I might be stubborn, but all I ask for is consistency. Outside school, you'll find me:  
+Snowboarding. Playing board games and video games. Immersing myself in the Lego world. Spending time with my cats, Kitson and Union.

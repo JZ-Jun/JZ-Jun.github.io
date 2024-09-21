@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Health Public Opinions
-description: Completed Project&#58; A Machine Learning-based Analysis of U.S. Tweets
+title: Public Opinions on Vaccine
+description: A Machine Learning-based Analysis of U.S. Tweets
 img: assets/img/amia-1.png
-importance: 5
-category: Research
+importance: 2
+category: Completed Research
 ---
 
 #### Where Informatics Borders Health Services Research

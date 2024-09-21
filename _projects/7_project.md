@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Personal Informatics Data
-description: Ongoing Project&#58; How People Share Activity Using Short-form Videos
+description: How People Share Activity Using Short-form Videos
 img: assets/img/video.png
 importance: 3
-category: Research
+category: Completed Research
 ---
 
 **Role**: Graduate Research assistant

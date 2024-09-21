@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Designing Data Video Platform
-description: Ongoing Project&#58; How to design interfaces to help creators in incorporating their data
+description: Studying how to support best practices for sharing on short-form video platforms.
 img: assets/img/video-2.png
-importance: 4
-category: Research
+importance: 2
+category: Ongoing Research
 ---
 
 **Role**: Graduate Research assistant  
