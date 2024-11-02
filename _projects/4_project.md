@@ -11,9 +11,9 @@ category: Completed Research
 
 **AMIA 2022** | [Paper](https://pubmed.ncbi.nlm.nih.gov/37128441/)  
 🏆 _<span style="color:#C0392B; font-size:small">Second Place in Student Paper Competition Finalist</span>_  
-**Role**: Undergraduate Research assistant  
+**Role**: Undergraduate Research Assistant  
 **Topic**: Public Opinions toward COVID-19 Vaccine Mandates: A Machine Learning-based Analysis of U.S. Tweets.
-<br>**Methods**: Sentiment analysis, qualitative content analysis.
+<br>**Methods**: Sentiment analysis, Qualitative content analysis.
 <br>**Duration**: Dec 2021 - Mar 2022.
 
 **Description**: This study utilized machine learning-based analysis of tweets from the US leading up to and following the Biden Administration's announcement of federal vaccine mandates. Additionally, a qualitative content analysis of a random sample of relevant tweets was conducted to explore the beliefs held by Twitter users regarding vaccine mandates and the evidence used to support their positions. Results revealed that while 30% of users supported vaccine mandates, a majority held differing opinions. Concerns included political motives, personal liberty infringement, and vaccine ineffectiveness in preventing infection.
