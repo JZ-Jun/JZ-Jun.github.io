@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-Visit my profile on [Google Scholar](https://scholar.google.com/citations?user=uuOrfjQAAAAJ&hl=en&oi=sra).
+For latest publications and additional details about my publications and work, please visit my [Google Scholar](https://scholar.google.com/citations?user=uuOrfjQAAAAJ&hl=en&oi=sra) and [CV](https://drive.google.com/file/d/1SEX_ku0P1BMnqfzxllXdEOQEhfbBhoeu/view?usp=sharing).
 
 <!-- _pages/publications.md -->
 

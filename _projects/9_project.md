@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Lived experiences with neural implants
+title: Patients with Brain Implants
 description: Studying how brain implants affect people’s lives and their interaction with health providers.
 img: assets/img/brain-1.png
 importance: 1
-category: Ongoing Research
+category: Completed Research
 ---
 
 **Role**: Student Lead/ First Author  
