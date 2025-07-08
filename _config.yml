@@ -127,13 +127,13 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Jun Zhu # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Misc. # blog_name will be displayed in your blog page
+blog_description: This page shares lessons I learned from my advisors and mentors that I found helpful. It also includes some of my own experiences with research and the PhD journey.  I stand on the shoulders of giants to keep growing, and I am grateful to everyone who has supported me along the way.
 permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
-  enabled: false
+  enabled: true
 
 related_blog_posts:
   enabled: false
@@ -297,8 +297,8 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["formatting", "images", "links", "math", "code"] # these tags will be displayed on the front page of your blog
-display_categories: ["blockquotes"] # these categories will be displayed on the front page of your blog
+display_tags: ["research", "memos", "things interesing"] # these tags will be displayed on the front page of your blog
+display_categories: [] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar

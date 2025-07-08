@@ -1,9 +1,9 @@
 ---
 layout: default
-permalink: /blog/
-title: Blog
-nav: false
-nav_order: 1
+permalink: /misc/
+title: Misc.
+nav: true
+nav_order: 5
 pagination:
   enabled: true
   collection: posts
@@ -56,7 +56,7 @@ pagination:
   </div>
   {% endif %}
 
-{% assign featured_posts = site.posts | where: "featured", "true" %}
+<!-- {% assign featured_posts = site.posts | where: "featured", "true" %}
 {% if featured_posts.size > 0 %}
 <br>
 
@@ -85,7 +85,7 @@ pagination:
 
                     <p class="post-meta">
                       {{ read_time }} min read &nbsp; &middot; &nbsp;
-                      <a href="{{ year | prepend: '/blog/' | prepend: site.baseurl}}">
+                      <a href="{{ year | prepend: '/blog/' | relative_url }}">
                         <i class="fa-solid fa-calendar fa-sm"></i> {{ year }} </a>
                     </p>
                   </div>
@@ -99,7 +99,7 @@ pagination:
     </div>
     <hr>
 
-{% endif %}
+{% endif %} -->
 
   <ul class="post-list">
 
@@ -148,13 +148,13 @@ pagination:
         {% endif %}
       </p>
       <p class="post-tags">
-        <a href="{{ year | prepend: '/blog/' | prepend: site.baseurl}}">
+        <a href="{{ year | prepend: '/blog/' | relative_url }}">
           <i class="fa-solid fa-calendar fa-sm"></i> {{ year }} </a>
 
           {% if tags != "" %}
           &nbsp; &middot; &nbsp;
             {% for tag in post.tags %}
-            <a href="{{ tag | slugify | prepend: '/blog/tag/' | prepend: site.baseurl}}">
+            <a href="{{ tag | slugify | prepend: '/blog/tag/' | relative_url }}">
               <i class="fa-solid fa-hashtag fa-sm"></i> {{ tag }}</a>
               {% unless forloop.last %}
                 &nbsp;
@@ -165,7 +165,7 @@ pagination:
           {% if categories != "" %}
           &nbsp; &middot; &nbsp;
             {% for category in post.categories %}
-            <a href="{{ category | slugify | prepend: '/blog/category/' | prepend: site.baseurl}}">
+            <a href="{{ category | slugify | prepend: '/blog/category/' | relative_url }}">
               <i class="fa-solid fa-tag fa-sm"></i> {{ category }}</a>
               {% unless forloop.last %}
                 &nbsp;
@@ -179,7 +179,7 @@ pagination:
 </div>
 
   <div class="col-sm-3">
-    <img class="card-img" src="{{post.thumbnail | relative_url}}" style="object-fit: cover; height: 90%" alt="image">
+    <img class="card-img" src="{{ post.thumbnail | relative_url }}" style="object-fit: cover; height: 90%" alt="image">
   </div>
 </div>
 {% endif %}
