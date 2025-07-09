@@ -22,11 +22,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a first year PhD student in the [Media & Information Department](https://comartsci.msu.edu/departments/media-and-information) at Michigan State University, advised by [Dr. Megh Marathe](https://marathem.weebly.com/).
+I am a first year PhD student in [Information & Media](https://comartsci.msu.edu/departments/media-and-information) at Michigan State University, advised by [Dr. Megh Marathe](https://marathem.weebly.com/).
 
 My research focuses on the areas of **Human-Computer Interaction (HCI)**, **Health Informatics**, and **Computer-Supported Collaborative Work (CSCW)**. Specifically, I am interested in using **human-centered** approaches to design, build, and evaluate inclusive `sociotechnical systems` that enable people to understand, explore, and make decisions with `clinical and/or personal health data`, and in improving health technologies to support clinical and public health care.
 
-I completed a MS in [Informatics Department](https://www.informatics.uci.edu/) at the [University of California Irvine](https://uci.edu/), advised by [Dr.Elena Agapie](https://eagapie.com/). I am also fortunate to be mentored by [Dr. Daniel Epstein](https://depstein.net/).
+I completed a MS in [informatics](https://www.informatics.uci.edu/) at [University of California Irvine](https://uci.edu/), advised by [Dr. Elena Agapie](https://eagapie.com/). I am also fortunate to be mentored by [Dr. Daniel Epstein](https://depstein.net/).
 
 Why research? My ultimate goal is to use my research and technical skills to inspire others to pursue long-term health interventions that are both impactful and far-reaching, while also making technology more accessible to all.
 
