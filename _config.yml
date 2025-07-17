@@ -128,7 +128,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Misc. # blog_name will be displayed in your blog page
-blog_description: This page shares lessons I learned from my advisors and mentors that I found helpful. It also includes some of my own experiences with research and the PhD journey.  I stand on the shoulders of giants to keep growing, and I am grateful to everyone who has supported me along the way.
+blog_description: This page shares things I learned from my advisors/mentors that I found helpful. It also includes some of my own experiences with research and the PhD journey.  I stand on the shoulders of giants to keep growing, and I am grateful to everyone who has supported me along the way.
 permalink: /blog/:year/:title/
 
 # Pagination
