@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://issac0723.github.io/sitemap.xml
+Sitemap: https://jz-jun.github.io//sitemap.xml
