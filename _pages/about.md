@@ -31,4 +31,4 @@ I completed a MS in [informatics](https://www.informatics.uci.edu/) at [Universi
 Why research/HCI? I grew up in a generation shaped by technology. While rapid technological development has made life easier in many ways, it has also created new challenges for some people. My ultimate goal is to use scientific methods and technical skills to explore how technology can better serve people, creating work that makes a real impact on the world.
 
 Outside school, you'll find me:  
-Snowboarding. Playing video games. Spending time with my cats, Kitson and Union.
+Snowboarding. Playing video games, and Legos.
