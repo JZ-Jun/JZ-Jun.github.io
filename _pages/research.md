@@ -2,7 +2,7 @@
 layout: page
 title: Research
 permalink: /Research/
-description: Research Projects.
+description: This page may not reflect the most recent updates. Project information is correct, but details of ongoing and under review work will be updated later.
 nav: true
 nav_order: 2
 display_categories: [Ongoing Research, Completed Research]

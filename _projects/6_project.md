@@ -7,7 +7,7 @@ importance: 6
 category: Completed Research
 ---
 
-**DIS 2023** | [Poster](https://dl.acm.org/doi/10.1145/3563703.3596639)  
+**DIS 2023** | [Peer-review Poster](https://dl.acm.org/doi/10.1145/3563703.3596639)  
 **Role**: Graduate Research assistant  
 **Duration**: Jan 2023 - Mar 2023  
 **Method**: Survey, Semi-structured interview  

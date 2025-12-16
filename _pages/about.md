@@ -12,7 +12,7 @@ profile:
     <a href='https://drive.google.com/file/d/1SEX_ku0P1BMnqfzxllXdEOQEhfbBhoeu/view?usp=sharing'target="_blank">CV</a>
     <a href='https://drive.google.com/file/d/1REj4hpccOdxcE65MMRLnx351ZMvtW0id/view?usp=sharing'target="_blank">Resume</a>
 
-    <br><p>Ph.D. student</p>
+    <br><p>Ph.D. Student</p>
     <p>Media & Information @ MSU</p>
     <p>She/Her</p>
     <p>zhujun at msu dot edu</p>
