@@ -22,11 +22,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a first year PhD student in [Information & Media](https://comartsci.msu.edu/departments/media-and-information) at Michigan State University, advised by [Dr. Megh Marathe](https://marathem.weebly.com/).
+I am a first year PhD student in [Information & Media](https://comartsci.msu.edu/departments/media-and-information) at Michigan State University, co-advised by [Prof. Megh Marathe](https://marathem.weebly.com) and [Prof. Heerin Lee](https://www.heerinlee.com/).
 
-My research focuses on the areas of **Human-Computer Interaction (HCI)**, **Health Informatics**, and **Computer-Supported Collaborative Work (CSCW)**. Specifically, I study the `everyday experiences` of how people use technology to manage their `health conditions` (e.g., how people engage with and make sense of health data). I use human-centered approaches to design, build, and evaluate inclusive `sociotechnical systems` with people, emphasizing collaboration rather than one-sided solutions.
+My research focuses on the areas of **Human-Computer Interaction (HCI)**, **Health Informatics**, and **Computer-Supported Collaborative Work (CSCW)**. I study how people with chronic conditions live with and interact with technologies that support their care. Through qualitative and `human centered design` approaches, I examine how technologies such as medical devices, monitoring systems, and digital tools become integrated into everyday care practices. My work informs the design of technologies that better support `long-term care` and `everyday health management`.
 
-I completed a MS in [informatics](https://www.informatics.uci.edu/) at [University of California Irvine](https://uci.edu/), advised by [Dr. Elena Agapie](https://eagapie.com/). I am also fortunate to be mentored by [Dr. Corina Sas](https://www.lancaster.ac.uk/scc/about-us/people/corina-sas) and [Dr. Daniel Epstein](https://depstein.net/).
+I completed a MS in [informatics](https://www.informatics.uci.edu/) at [University of California Irvine](https://uci.edu/), advised by [Prof. Elena Agapie](https://eagapie.com/). I am also fortunate to be mentored by [Prof. Corina Sas](https://www.lancaster.ac.uk/scc/about-us/people/corina-sas) and [Prof. Daniel Epstein](https://depstein.net/).
 
 Why research/HCI? I grew up in a generation shaped by technology. While rapid technological development has made life easier in many ways, it has also created new challenges for some people. My ultimate goal is to use scientific methods and technical skills to explore how technology can better serve people, creating work that makes a real impact on the world.
 
