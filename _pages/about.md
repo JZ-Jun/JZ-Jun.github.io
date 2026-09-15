@@ -5,7 +5,7 @@ permalink: /
 subtitle: Hello, World! #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: right
+  align: left
   image: jun_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
