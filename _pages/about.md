@@ -22,9 +22,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a first year PhD student in [Information & Media](https://comartsci.msu.edu/departments/media-and-information) at Michigan State University, co-advised by [Prof. Megh Marathe](https://marathem.weebly.com) and [Prof. Heerin Lee](https://www.heerinlee.com/).
+I am a second year PhD student in [Information & Media](https://comartsci.msu.edu/departments/media-and-information) at Michigan State University, co-advised by [Prof. Megh Marathe](https://marathem.weebly.com) and [Prof. Heerin Lee](https://www.heerinlee.com/).
 
-My research focuses on the areas of **Human-Computer Interaction (HCI)**, **Health Informatics**, and **Computer-Supported Collaborative Work (CSCW)**. I study how people with chronic conditions live with and interact with technologies that support their care. Through qualitative and `human centered design` approaches, I examine how technologies such as medical devices, monitoring systems, and digital tools become integrated into everyday care practices. My work informs the design of technologies that better support `long-term care` and `everyday health management`.
+My research focuses on the areas of **Human-Computer Interaction (HCI)**, **Health Informatics**, and **Computer-Supported Collaborative Work (CSCW)**. I study how `health technologies` become part of ongoing care and everyday life. Through qualitative and `human-centered design` approaches, I examine (1) how caregiving relationships shape participation in technology use and design; and (2) how patients, clinicians, and technologies together shape understandings of symptoms, treatment, and health over time. My work aims to inform the design of technologies that better support ongoing care, `care relationships`, and everyday health management.
 
 I completed a MS in [informatics](https://www.informatics.uci.edu/) at [University of California Irvine](https://uci.edu/), advised by [Prof. Elena Agapie](https://eagapie.com/). I am also fortunate to be mentored by [Prof. Corina Sas](https://www.lancaster.ac.uk/scc/about-us/people/corina-sas) and [Prof. Daniel Epstein](https://depstein.net/).
 

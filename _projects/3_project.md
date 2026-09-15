@@ -14,7 +14,7 @@ category: Course Projects
 <br>**Sponsors**: Thi Nguyen & Christine Dinh
 <br>**Methods**: Surveys, Personas, Wireframes, Prototype, User Testing.  
 **Tools**: Paper, Figma, Agile, Github, Android Studio(Flutter), Xcode, AWS
-<br>**Link**: [Generalized Design Document](https://drive.google.com/file/d/1BZJljvzQfridAhz0hg3hogiDDP8UfPud/view?usp=sharing), [video demo](https://youtu.be/9nQ2TJmYZyQ)  
+<br>**Link**: [video demo](https://youtu.be/9nQ2TJmYZyQ)
 **Solution**: An ios and Android mobiel app that connects non-profits, individuals, and corporations with each other to donate resources.
 
 **Overview and Purpose**:
