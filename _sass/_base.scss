@@ -198,6 +198,10 @@ ul.task-list input[type="checkbox"] {
   > figure {
     width: 88%;
     max-width: 240px;
+
+    img {
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+    }
   }
 
   .more-info {
